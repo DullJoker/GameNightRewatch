@@ -4,6 +4,9 @@
   <a href="https://github.com/DullJoker/GameNightRewatch/blob/main/LICENCE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
+  <a href="https://github.com/DullJoker/GameNightRewatch/blob/main/.github/workflows/ci.yml">
+    <img src="https://github.com/DullJoker/GameNightRewatch/blob/main/.github/workflows/ci.yml/badge.svg?branch=main" />
+  </a>
   <a href="https://twitter.com/dull\_joker" target="_blank">
     <img alt="Twitter: dull\_joker" src="https://img.shields.io/twitter/follow/dull\_joker.svg?style=social" />
   </a>
@@ -29,9 +32,9 @@ pnpm run dev
 
 👤 **Jesse (DullJoker)**
 
-* Website: https://glitchtech.eu
-* Twitter: [@dull\_joker](https://twitter.com/dull\_joker)
-* Github: [@JesseKoldewijn](https://github.com/JesseKoldewijn)
+- Website: https://glitchtech.eu
+- Twitter: [@dull_joker](https://twitter.com/dull_joker)
+- Github: [@JesseKoldewijn](https://github.com/JesseKoldewijn)
 
 ## Show your support
 
@@ -42,5 +45,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Jesse (DullJoker)](https://github.com/JesseKoldewijn).<br />
 This project is [MIT](https://github.com/DullJoker/GameNightRewatch/blob/main/LICENCE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
