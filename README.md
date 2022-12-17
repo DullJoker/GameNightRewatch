@@ -5,7 +5,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://github.com/DullJoker/GameNightRewatch/blob/main/.github/workflows/ci.yml">
-    <img src="https://github.com/DullJoker/GameNightRewatch/blob/main/.github/workflows/ci.yml/badge.svg?branch=main" />
+    <img src="https://github.com/DullJoker/GameNightRewatch/actions/workflows/ci.yml/badge.svg" />
   </a>
   <a href="https://twitter.com/dull_joker" target="_blank">
     <img alt="Twitter: dull_joker" src="https://img.shields.io/twitter/follow/dull_joker.svg?style=social" />
