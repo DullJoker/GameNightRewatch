@@ -7,8 +7,8 @@
   <a href="https://github.com/DullJoker/GameNightRewatch/blob/main/.github/workflows/ci.yml">
     <img src="https://github.com/DullJoker/GameNightRewatch/blob/main/.github/workflows/ci.yml/badge.svg?branch=main" />
   </a>
-  <a href="https://twitter.com/dull\_joker" target="_blank">
-    <img alt="Twitter: dull\_joker" src="https://img.shields.io/twitter/follow/dull\_joker.svg?style=social" />
+  <a href="https://twitter.com/dull_joker" target="_blank">
+    <img alt="Twitter: dull_joker" src="https://img.shields.io/twitter/follow/dull_joker.svg?style=social" />
   </a>
 </p>
 
