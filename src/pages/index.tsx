@@ -1,6 +1,5 @@
 import { type NextPage } from "next";
 import Head from "next/head";
-import Link from "next/link";
 
 const Home: NextPage = () => {
   return (
@@ -13,7 +12,7 @@ const Home: NextPage = () => {
       <main className="flex min-h-screen flex-col items-center justify-center bg-[radial-gradient(ellipse_at_bottom,_var(--tw-gradient-stops))] from-gray-600 via-gray-900 to-black">
         <div className="container flex flex-col items-center justify-center gap-12 px-4 py-16 ">
           <h1 className="text-5xl font-extrabold tracking-tight text-white sm:text-[5rem]">
-            GameNight <span className="text-red-600">Rewatch</span>
+            GameNight<span className="text-red-600">Rewatch</span>
           </h1>
         </div>
       </main>
